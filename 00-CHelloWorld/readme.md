@@ -14,6 +14,6 @@ Soporta C18
 >
 #define __STDC_VERSION__ 201710L
 
-.Probé el compilador con un programa hello.c que imprime Hello World en consola.
-.Ejecuté el programa y verifiqué que la salida es la esperada.
-.Ejecuté el programa con la salida redireccionada según la docu CharacterInputOutputRedirection a un archivo "output.txt" (.\hello.exe > output.txt) ya que ya estába compilado. El contenido del txt coincidía con el de stdout
+<.Probé el compilador con un programa hello.c que imprime Hello World en consola.
+<.Ejecuté el programa y verifiqué que la salida es la esperada.
+<.Ejecuté el programa con la salida redireccionada según la docu CharacterInputOutputRedirection a un archivo "output.txt" (.\hello.exe > output.txt) ya que ya estába compilado. El contenido del txt coincidía con el de stdout
