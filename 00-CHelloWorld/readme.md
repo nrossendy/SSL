@@ -1,13 +1,22 @@
 # Trabajo #0
 **Número de equipo:** ##
+
 **Nombre del equipo (opcional):** -
+
 **Autores de la resolución:** Rossendy Nicolás
+
 **Usuario github:** nrossendy
+
 **Legajo:** 177.380-0
+
 **Apellido:** Rossendy
+
 **Nombre:** Nicolás Nahuel
+
 **Número y título del trabajo:** - [Trabajo #0 (Individual): §3. “Hello, World” en C]
+
 **Transcripción del enunciado:** 
+
 Adquirir y preparar los recursos necesarios para resolver los trabajos del curso.
 1. Cuenta en GitHub
 2. Repositorio para público para la materia
