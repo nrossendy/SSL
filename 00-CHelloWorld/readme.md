@@ -1,6 +1,6 @@
-Compilador seleccionado: gcc via MinGW-w64
-Compiler Vers: gcc (Rev3, Built by MSYS2 project) 13.2.0
-Versión C que compila: 
+Compilador seleccionado: gcc via MinGW-w64;
+Compiler Vers: gcc (Rev3, Built by MSYS2 project) 13.2.0;
+Versión C que compila; 
 
 Soporta C11
 >gcc -std=c11 -dM -E - < NUL | findstr __STDC_VERSION__
